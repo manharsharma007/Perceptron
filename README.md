@@ -1,6 +1,6 @@
 # Perceptron
 
-##Steps : 
+## Steps : 
 
 	1) Use prepare_data() method to prepare the inputs and labels. The prepare data accepts three parameters
 		#@files - input file to read
