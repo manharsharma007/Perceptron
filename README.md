@@ -1,5 +1,4 @@
 # Perceptron
-Perceptron is a mathematical computational model for classifying only linearly separable data. Perceptron algorithm only works if the data is linearly separable.
 
 ## Steps : 
 
